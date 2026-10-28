@@ -24,5 +24,32 @@ restaurants' contribution to revenue.
 - Order count grew by 5.4% from May to June, total commission
   by 14.5%
 
+## Recommendations
+
+**Retention (main priority)**
+- Launch a welcome series of push notifications for new users
+- Offer a promo code for the second order within 24 hours
+  after the first one
+- Improve the onboarding flow
+
+**DAU**
+- Increase user engagement when activity drops: push notifications,
+  promo codes, and promotions
+
+**Conversion rate**
+- Review the user journey to the order (UX audit)
+- Test a simpler ordering flow and personalized recommendations
+
+**Average commission per order**
+- Support the growth with a loyalty program with higher cashback
+  for larger orders
+
+**Partner restaurants**
+- Offer exclusive promotions and priority placement
+  to the two leading restaurants
+- Analyze why the third restaurant falls behind and help it
+  increase orders
+- Use meat and fish dishes in promotions, as they are the most popular
+
 ![Metrics](dashboard_metrics.png)
 ![Conclusions](dashboard_conclusions.png)
