@@ -19,8 +19,8 @@ restaurants' contribution to revenue.
 ## Key findings
 - Retention is the main problem: 86% of users don't return
   on day 1, only ~4% remain by day 7
-- Two restaurants generate most of the commission, far ahead
-  of the third
+- Two restaurants brought about 170K and 165K in commission each,
+  almost 3 times more than the third one (61K)
 - Order count grew by 5.4% from May to June, total commission
   by 14.5%
 
