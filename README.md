@@ -144,6 +144,7 @@ retention, and the contribution of partner restaurants.
 **What I did:**
 - Built a dashboard in DataLens with DAU, conversion rate,
   average commission per order, retention, and LTV
+- Wrote SQL queries to calculate the metrics for the dashboard
 - Compared May and June user cohorts by retention
 - Found the top restaurants by LTV and analyzed their most popular dishes
 - Wrote a separate tab with conclusions and recommendations for each metric
