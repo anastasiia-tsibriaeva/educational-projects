@@ -130,6 +130,37 @@ about the game industry in 2000–2013.
 
 ---
 
+### 6. Food Delivery Service: Business Metrics Dashboard
+DAU, conversion, retention, LTV; dashboard with written conclusions
+and recommendations. 
+[Project](food-delivery-dashboard/) ·
+[Live dashboard](https://datalens.ru/4ah82rewci2wo-klyuchevye-biznes-metriki-v-servise-dostavki-edy-may-i)
+
+**Task:** Analyze key business metrics of a food delivery service
+in Saransk for May–June 2021: user activity, conversion, orders,
+retention, and the contribution of partner restaurants.
+
+**What I did:**
+- Built a dashboard in DataLens with DAU, conversion rate,
+  average commission per order, retention, and LTV
+- Compared May and June user cohorts by retention
+- Found the top restaurants by LTV and analyzed their most popular dishes
+- Wrote a separate tab with conclusions and recommendations for each metric
+
+**Results:**
+- Retention is the main problem: 86% of users did not come back
+  on day 1, and only about 4% stayed by day 7
+- In June, the number of orders grew by 5.4% and total commission
+  by 14.5% compared to May
+- Two restaurants brought most of the commission, far ahead of the third
+- I recommended a welcome campaign with a promo code for the second
+  order, a UX review of the ordering flow, and joint promotions
+  with the top restaurants
+
+**Tools:** Yandex DataLens, SQL (PostgreSQL)
+
+---
+
 ## Contact
 - LinkedIn: [linkedin.com/in/anastasiia-tsibriaeva](https://www.linkedin.com/in/anastasiia-tsibriaeva)
 - Email: czibryaeva98@gmail.com
