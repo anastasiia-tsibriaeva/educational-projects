@@ -133,6 +133,7 @@ about the game industry in 2000–2013.
 ### 6. Food Delivery Service: Business Metrics Dashboard
 DAU, conversion, retention, LTV; dashboard with written conclusions
 and recommendations. 
+
 [Project](food-delivery-dashboard/) ·
 [Live dashboard](https://datalens.ru/4ah82rewci2wo-klyuchevye-biznes-metriki-v-servise-dostavki-edy-may-i)
 
