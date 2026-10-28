@@ -1,7 +1,9 @@
 # Food delivery service: key business metrics dashboard
 
 **Tool:** Yandex DataLens
+
 **Dashboard language:** Russian
+
 **Live dashboard:** [link](https://datalens.ru/4ah82rewci2wo-klyuchevye-biznes-metriki-v-servise-dostavki-edy-may-i)
 
 ## Goal
